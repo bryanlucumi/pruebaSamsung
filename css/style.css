@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'clementepdaelight';
+    src: url('clementepdae-light-webfont.eot');
+    src: url('clementepdae-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('clementepdae-light-webfont.woff2') format('woff2'),
+         url('clementepdae-light-webfont.woff') format('woff'),
+         url('clementepdae-light-webfont.ttf') format('truetype'),
+         url('clementepdae-light-webfont.svg#clementepdaelight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'circoexregular';
+    src: url('circoex3_14-12-11-webfont.eot');
+    src: url('circoex3_14-12-11-webfont.eot?#iefix') format('embedded-opentype'),
+         url('circoex3_14-12-11-webfont.woff2') format('woff2'),
+         url('circoex3_14-12-11-webfont.woff') format('woff'),
+         url('circoex3_14-12-11-webfont.ttf') format('truetype'),
+         url('circoex3_14-12-11-webfont.svg#circoexregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body h2, h3, h4, h5, h6{
+	font-family: 'clementepdaelight';
+}
+
+h1 {
+	font-family: 'circoexregular';
+	color:#C2B31E;
+	}
+
+
+#pdf{
+	src: url(../seccion1/Relato%20Ilustrativo%20General%20Santander.pdf);
+	width:100%;
+	}

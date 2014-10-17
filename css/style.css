@@ -22,7 +22,7 @@
     font-style: normal;
 }
 
-body h2, h4, h5, h6{
+body h2, h5, h6{
 	font-family: 'clementepdaelight';
 }
 
@@ -37,7 +37,15 @@ h3 {
 	font-size:30px;
 	}
 
-
+h4 {
+	font-family: 'clementepdaelight';
+	color: rgb(0,102,153);
+	font-size:26px;
+	text-decoration:none;
+	}
+a{
+	text-decoration:none;
+	}
 #pdf{
 	src: url(../seccion1/Relato%20Ilustrativo%20General%20Santander.pdf);
 	width:100%;

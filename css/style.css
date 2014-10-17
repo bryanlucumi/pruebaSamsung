@@ -22,13 +22,19 @@
     font-style: normal;
 }
 
-body h2, h3, h4, h5, h6{
+body h2, h4, h5, h6{
 	font-family: 'clementepdaelight';
 }
 
 h1 {
 	font-family: 'circoexregular';
 	color:#C2B31E;
+	}
+	
+h3 {
+	font-family: 'circoexregular';
+	color: rgb(207,66,72);
+	font-size:30px;
 	}
 
 
